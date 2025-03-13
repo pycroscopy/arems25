@@ -1,5 +1,7 @@
 # arems25
-AReMS Tutorial 2025
+AReMS Pycroscopy Tutorial 2025
+
+Rama Vasudevan (CNMS/ORNL)
 
 We will be creating a pycroscopy reader from scratch for this tutorial
 
